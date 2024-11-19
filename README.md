@@ -1,7 +1,7 @@
 
 # Hi there, I'm Bar Shnider! 👋  
 
-🌟 **Full Stack Developer | Frontend Enthusiast | UX/UI Designer**  
+🌟 **Full Stack Developer**  
 I’m a passionate developer with a love for creating functional, user-friendly, and visually appealing web applications. Skilled in modern technologies like **React**, **ASP.NET**, **SQL**, and **WebSockets**, I enjoy building solutions that make an impact.  
 
 ---
