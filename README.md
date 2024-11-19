@@ -17,6 +17,6 @@ I’m a passionate developer with a love for creating functional, user-friendly,
 ### 📫 Let’s Connect:
 - **[LinkedIn](https://www.linkedin.com/in/bar-shnider)**
 - **[GitHub](https://github.com/barshnider)**  
-- **Email: [mailto:Barshnider@gmail.com](barshnider@gmail.com)**  
+- **Email: [Barshnider@gmail.com](mailto:barshnider@gmail.com)**  
 
 Feel free to explore my repositories and reach out for collaboration or opportunities! 🚀  
